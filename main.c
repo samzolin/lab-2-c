@@ -27,6 +27,8 @@ int main(void) {
     printf("Your letter grade for CMPSC is D.");
     else if(d<60.0)
     printf("Your letter grade for CMPSC is F.");
+    else
+    printf("Invalid");
 
   return 0;
 }
