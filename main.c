@@ -1,9 +1,9 @@
 //Author: Samantha Zolin saz5193@psu.edu
-//Collaborator: 
-//Collaborator:
-//Collaborator:
+//Collaborator: Christian Davis ckd5367@psu.edu
+//Collaborator: Samarth Tehri sqt5555@psu.edu
+//Collaborator: Bryce Graf bag5620@psu.edu
 //Section: 1
-//Break out:
+//Break out: 3
 #include <stdio.h>
 #include <readline/readline.h>
 #include <string.h>
