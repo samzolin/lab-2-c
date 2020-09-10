@@ -2,12 +2,16 @@
 //Collaborator: 
 //Collaborator:
 //Collaborator:
+//Section:
+//Break out:
 #include <stdio.h>
+#include <readline/readline.h>
+#include <stdlib.h>
 
 int main(void) {
-  printf("Enter your CMPSC 131 grade: ");
-  double d;
   
+  double d;
+  printf("Enter your CMPSC 131 grade: ");
 
   scanf("%lf", &d);
 
